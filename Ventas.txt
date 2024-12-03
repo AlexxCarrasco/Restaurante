@@ -1,0 +1,6 @@
+21;alex;02/12/2024;23:24
+mokka;cafes;BEBESTIBLE;2700
+chai;te;BEBESTIBLE;2700
+chai;te;BEBESTIBLE;2700
+21;alex;02/12/2024;23:25
+asado;platos;COMIDA;10000
